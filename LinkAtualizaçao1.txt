@@ -1,8 +1,0 @@
-{
-  "versão" : " 1.0.1 " ,
-     "link" : [
-    {
-      "descriçao" : " https://www.dropbox.com/scl/fi/rei7kmvq5lbrb6l0b1vlv/JRS_FISCAL.zip?rlkey=2eqvpx4bv9sw950t9acc6fzse&dl=0 "
-        }
-  ]
-}
