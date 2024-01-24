@@ -1,10 +1,13 @@
 {
-  "versao": "1.0.0.2",
-  "data": "23/01/2024",
+  "versao": "1.0.0.3",
+  "data": "24/01/2024",
   "linkgithub": "https://raw.githubusercontent.com/expedito7798/techupdate/main/linkAtualiza%C3%A7ao.json",
      "link": [
     {
-      "descriçao": "https://www.dropbox.com/scl/fi/rei7kmvq5lbrb6l0b1vlv/JRS_FISCAL.zip?rlkey=2eqvpx4bv9sw950t9acc6fzse&dl=0"
+      "descriçao": "https://www.dropbox.com/scl/fi/rei7kmvq5lbrb6l0b1vlv/JRS_FISCAL.zip?rlkey=2eqvpx4bv9sw950t9acc6fzse&dl=0",
+       "descriçao": "https://www.dropbox.com/scl/fi/rei7kmvq5lbrb6l0b1v",
+       "descriçao": "https://www.dropbox.com/scl/fi/rei7kmvq5lbrb6l0b1vlv/JRS_FISCAL.zip?rlkey=2eqvp"
+     
     }
   ]
 }
