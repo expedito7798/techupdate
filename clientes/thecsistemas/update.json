@@ -4,7 +4,7 @@
   "versao": "2026.1.6.1029",
   "data": "2026-06-11",
   "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.1.6.1029/Tech_thecsistemas_2026_1_6_1029.zip",
-  "sha256": "66ee49040361ef9e96e9563599d5443d1a688b8691dd6587bffbac4bc2757b6c",
-  "obrigatoria": false,
-  "mensagem": "atualiza\u00E7ao do updater"
+  "sha256": "2feb6eeea513f1d4f89152efd6857a540ce5a091806ea3d73dc3d69bf808c6d1",
+  "obrigatoria": true,
+  "mensagem": "oooolha"
 }
