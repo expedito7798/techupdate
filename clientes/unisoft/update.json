@@ -1,10 +1,10 @@
 {
   "cliente": "unisoft",
   "sistema": "Tech Sistemas unisoft",
-  "versao": "2026.1.6.1016",
+  "versao": "2026.1.6.1017",
   "data": "2026-06-12",
   "url": "https://raw.githubusercontent.com/will007007/unisoft/main/clientes/unisoft/licencas/",
-  "sha256": "6da2c73bb586575c1aceb159c2435677a3e4abb9c23dee4d295a9fd5295de718",
+  "sha256": "bb1eaa6a13ee4c416d65d3245380ec8723710ab8500d4f0db08e0e3d48d0be61",
   "obrigatoria": true,
   "mensagem": ""
 }
