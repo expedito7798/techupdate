@@ -4,7 +4,7 @@
   "versao": "2026.1.6.1016",
   "data": "2026-06-12",
   "url": "https://raw.githubusercontent.com/will007007/unisoft/main/clientes/unisoft/licencas/",
-  "sha256": "9c2019ca08469eac28c9b83a8040a7f3640384e210fe990242a005ea4be124e4",
-  "obrigatoria": false,
+  "sha256": "6da2c73bb586575c1aceb159c2435677a3e4abb9c23dee4d295a9fd5295de718",
+  "obrigatoria": true,
   "mensagem": ""
 }
