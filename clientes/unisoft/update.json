@@ -4,7 +4,7 @@
   "versao": "2026.1.6.1013",
   "data": "2026-06-12",
   "url": "https://github.com/expedito7798/techupdate/releases/download/unisoft-v2026.1.6.1013/Tech_unisoft_2026_1_6_1013.zip",
-  "sha256": "63ab4b5a42a4fd8c0ad6f738b22917d00742fea45cb8a0e93b2838ac762e241f",
-  "obrigatoria": false,
+  "sha256": "c55ec6829b014d7f5c45bc825b931d2ebde5c81415b42969038a1fd82d25957e",
+  "obrigatoria": true,
   "mensagem": ""
 }
