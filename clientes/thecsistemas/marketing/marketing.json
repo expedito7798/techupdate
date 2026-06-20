@@ -1,0 +1,27 @@
+{
+  "cliente": "thecsistemas",
+  "atualizadoEm": "2026-06-19T13:02:50",
+  "intervaloSegundos": 30,
+  "campanhas": [
+    {
+      "id": "9d5809d738e04de0a55f8d392c43698a",
+      "ativo": true,
+      "titulo": "natal",
+      "mensagem": "",
+      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/9d5809d738e04de0a55f8d392c43698a.jpg",
+      "link": "",
+      "inicio": "2026-06-19",
+      "fim": "2026-07-19"
+    },
+    {
+      "id": "f6ec6fb00a4243c18c2777962cbeecad",
+      "ativo": true,
+      "titulo": "vo",
+      "mensagem": "",
+      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/f6ec6fb00a4243c18c2777962cbeecad.png",
+      "link": "",
+      "inicio": "2026-06-19",
+      "fim": "2026-07-19"
+    }
+  ]
+}
