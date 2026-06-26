@@ -1,10 +1,10 @@
 {
   "cliente": "thecsistemas",
   "sistema": "Tech Sistemas thecsistemas",
-  "versao": "2026.1.6.1051",
+  "versao": "2026.1.6.1052",
   "data": "2026-06-26",
-  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.1.6.1051/Tech_thecsistemas_2026_1_6_1051.zip",
-  "sha256": "259fc0eaf7359bbe95fa7234a38e0bb332c8f905a49c686cbe25fc5da4022232",
+  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.1.6.1052/Tech_thecsistemas_2026_1_6_1052.zip",
+  "sha256": "f818d17a653995907fdb05e34ee339ae804d7d301d3db93bfab9183490d6a549",
   "obrigatoria": false,
   "mensagem": ""
 }
