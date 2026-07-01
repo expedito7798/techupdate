@@ -1,17 +1,27 @@
 {
   "cliente": "thecsistemas",
-  "atualizadoEm": "2026-06-25T07:43:42",
+  "atualizadoEm": "2026-07-01T01:27:37",
   "intervaloSegundos": 30,
   "campanhas": [
     {
-      "id": "47e2052660aa490cba2be6ba6c2c57ca",
+      "id": "fbb2f1d1c7ee48aba7b61c80576a2b5e",
       "ativo": true,
-      "titulo": "tributa\u00E7a",
+      "titulo": "novo",
       "mensagem": "",
-      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/47e2052660aa490cba2be6ba6c2c57ca.png",
+      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/fbb2f1d1c7ee48aba7b61c80576a2b5e.png",
       "link": "",
-      "inicio": "2026-06-25",
-      "fim": "2026-07-25"
+      "inicio": "2026-07-01",
+      "fim": "2026-07-03"
+    },
+    {
+      "id": "fa4c250adfbc497eae845a6ee4cb60fa",
+      "ativo": true,
+      "titulo": "logo",
+      "mensagem": "",
+      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/fa4c250adfbc497eae845a6ee4cb60fa.png",
+      "link": "",
+      "inicio": "2026-07-01",
+      "fim": "2026-07-31"
     }
   ]
 }
