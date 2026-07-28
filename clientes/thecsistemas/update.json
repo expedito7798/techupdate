@@ -1,10 +1,10 @@
 {
   "cliente": "thecsistemas",
   "sistema": "Tech Sistemas thecsistemas",
-  "versao": "2026.1.6.1068",
+  "versao": "2026.1.6.1069",
   "data": "2026-07-28",
-  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.1.6.1068/Tech_thecsistemas_2026_1_6_1068.zip",
-  "sha256": "b74dc347842a9a77a3dd7e52839b2040cae15b262b1e97f0a453a6886376b114",
+  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.1.6.1069/Tech_thecsistemas_2026_1_6_1069.zip",
+  "sha256": "ecd4a586fcef0540f281d159038a2ad79e6d09419a9bafc79f58b70b5de714ec",
   "obrigatoria": true,
-  "mensagem": ""
+  "mensagem": "corre\u00E7\u00E3o nas Ordens de Servi\u00E7os"
 }
