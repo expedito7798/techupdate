@@ -1,10 +1,10 @@
 {
   "cliente": "darley",
   "sistema": "Tech Sistemas darley",
-  "versao": "2026.1.6.1041",
+  "versao": "2026.1.6.1042",
   "data": "2026-09-04",
-  "url": "https://github.com/expedito7798/techupdate/releases/download/darley-v2026.1.6.1041/Tech_darley_2026_1_6_1041.zip",
-  "sha256": "ffccee2ceb05dfd40e3a16c9f3fe760e2d0cffdd99cec5aa698e9fa5e6fe7061",
+  "url": "https://github.com/expedito7798/techupdate/releases/download/darley-v2026.1.6.1042/Tech_darley_2026_1_6_1042.zip",
+  "sha256": "0fc65285808e2a63735b1ddc40a076b72a7e957e1505fd1737539aa13bf68064",
   "obrigatoria": true,
   "mensagem": ""
 }
