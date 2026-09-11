@@ -1,10 +1,10 @@
 {
   "cliente": "unisoft",
   "sistema": "Tech Sistemas unisoft",
-  "versao": "2026.1.6.1048",
+  "versao": "2026.1.6.1049",
   "data": "2026-09-10",
-  "url": "https://github.com/expedito7798/techupdate/releases/download/unisoft-v2026.1.6.1048/Tech_unisoft_2026_1_6_1048.zip",
-  "sha256": "633e4ef55d94c512afc6349a13715b989a6d6bbed09abeabeeab2451f310e8a3",
+  "url": "https://github.com/expedito7798/techupdate/releases/download/unisoft-v2026.1.6.1049/Tech_unisoft_2026_1_6_1049.zip",
+  "sha256": "c627f63922232082632f75f2d87186da2dc5e10a66e52eee57b2577b1f111ba0",
   "obrigatoria": true,
   "mensagem": ""
 }
