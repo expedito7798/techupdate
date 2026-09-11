@@ -1,10 +1,10 @@
 {
-  "versao": "2026.1.6.1021",
-  "data": "19/01/2026",
-  "linkgithub": "https://raw.githubusercontent.com/expedito7798/techupdate/refs/heads/main/linkAtualiza%C3%A7aoUNISOFT.json",
+  "versao": "2026.1.6.1046",
+  "data": "10/09/2026",
+  "linkgithub": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/unisoft/update.json",
   "link": [
     {
-      "descriçao": "https://www.dropbox.com/scl/fi/ukyecrkjciqxnm801wteu/ERP-Sistemas.zip?rlkey=metyf5fppi1d7hktm3i7041ag&dl=1"
+      "descriçao": "https://github.com/expedito7798/techupdate/releases/download/unisoft-v2026.1.6.1046/Tech_unisoft_2026_1_6_1046.zip"
     }
 
   ]
