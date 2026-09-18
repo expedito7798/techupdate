@@ -63,6 +63,16 @@
       "Codigo": "INTEGRACOES",
       "Nome": "Integra\u00E7\u00F5es, TEF e Pix",
       "ValorMensal": 0
+    },
+    {
+      "Codigo": "SNGPC",
+      "Nome": "Farm\u00E1cia e SNGPC",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "NFSE_NACIONAL",
+      "Nome": "NFS-e Nacional",
+      "ValorMensal": 0
     }
   ],
   "OfertasModulos": [
@@ -124,6 +134,11 @@
     {
       "Codigo": "SNGPC",
       "Nome": "Farm\u00E1cia e SNGPC",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "NFSE_NACIONAL",
+      "Nome": "NFS-e Nacional",
       "ValorMensal": 0
     }
   ]
