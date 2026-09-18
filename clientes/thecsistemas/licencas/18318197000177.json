@@ -2,12 +2,12 @@
   "Versao": 2,
   "CNPJ": "18318197000177",
   "DataGeracao": "11/06/2026",
-  "ValidoPor": "300",
-  "ValidoAte": "07/04/2027",
+  "ValidoPor": "200",
+  "ValidoAte": "28/12/2026",
   "QuantidadeTerminais": "005",
-  "Chave": "mVItdsXtznkoQzZnFBNA5e4TpNCMrWRl2WwMsUQv0ueq2FYKmlY2Ow==",
+  "Chave": "mVItdsXtznkoQzZnFBNA5ePtMg79Kq/vHp1zFFXhkFHPS8fULtSPzw==",
   "Plano": "Plano Premium",
-  "ValorMensal": 2,
+  "ValorMensal": 0,
   "Modulos": [
     {
       "Codigo": "CADASTROS",
@@ -57,7 +57,7 @@
     {
       "Codigo": "MARKETPLACE",
       "Nome": "Marketplaces",
-      "ValorMensal": 2
+      "ValorMensal": 0
     },
     {
       "Codigo": "INTEGRACOES",
@@ -124,7 +124,7 @@
     {
       "Codigo": "MARKETPLACE",
       "Nome": "Marketplaces",
-      "ValorMensal": 2
+      "ValorMensal": 0
     },
     {
       "Codigo": "INTEGRACOES",
