@@ -1,0 +1,128 @@
+{
+  "Versao": 2,
+  "CNPJ": "44277237000190",
+  "DataGeracao": "22/09/2026",
+  "ValidoPor": "030",
+  "ValidoAte": "22/10/2026",
+  "QuantidadeTerminais": "001",
+  "TerminaisTef": 1,
+  "PrecoTerminalErp": 19.9,
+  "PrecoTerminalTef": 60,
+  "Chave": "L1RchxJD\u002BP7Q6ygFsXqvhNZJrJ9TR72oFgnERI8hhqozJtVSij8NvQ==",
+  "Plano": "Plano Premium",
+  "ValorMensal": 0.0,
+  "Modulos": [
+    {
+      "Codigo": "CADASTROS",
+      "Nome": "Cadastros",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "VENDAS_CAIXA",
+      "Nome": "Vendas, PDV e caixa",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "ESTOQUE",
+      "Nome": "Estoque",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "FINANCEIRO",
+      "Nome": "Financeiro",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "FISCAL",
+      "Nome": "Fiscal e notas fiscais",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "RELATORIOS",
+      "Nome": "Relat\u00F3rios avan\u00E7ados",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "ORDEM_SERVICO",
+      "Nome": "Ordem de Servi\u00E7o (Oficina Mec\u00E2nica)",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "MARKETPLACE",
+      "Nome": "Marketplaces",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "INTEGRACOES",
+      "Nome": "Integra\u00E7\u00F5es, TEF e Pix",
+      "ValorMensal": 0
+    }
+  ],
+  "OfertasModulos": [
+    {
+      "Codigo": "CADASTROS",
+      "Nome": "Cadastros",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "VENDAS_CAIXA",
+      "Nome": "Vendas, PDV e caixa",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "ESTOQUE",
+      "Nome": "Estoque",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "FINANCEIRO",
+      "Nome": "Financeiro",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "FISCAL",
+      "Nome": "Fiscal e notas fiscais",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "RELATORIOS",
+      "Nome": "Relat\u00F3rios avan\u00E7ados",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "ORDEM_SERVICO",
+      "Nome": "Ordem de Servi\u00E7o (Oficina Mec\u00E2nica)",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "SUPERMERCADO",
+      "Nome": "Supermercado (PDV no estilo Supermercado)",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "PIZZARIA",
+      "Nome": "Pizzaria",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "MARKETPLACE",
+      "Nome": "Marketplaces",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "INTEGRACOES",
+      "Nome": "Integra\u00E7\u00F5es, TEF e Pix",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "SNGPC",
+      "Nome": "Farm\u00E1cia e SNGPC",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "NFSE_NACIONAL",
+      "Nome": "NFS-e Nacional",
+      "ValorMensal": 0
+    }
+  ]
+}
