@@ -1,13 +1,16 @@
 {
   "Versao": 2,
   "CNPJ": "18318197000177",
-  "DataGeracao": "11/06/2026",
-  "ValidoPor": "200",
-  "ValidoAte": "28/12/2026",
-  "QuantidadeTerminais": "005",
-  "Chave": "mVItdsXtznkoQzZnFBNA5ePtMg79Kq/vHp1zFFXhkFHPS8fULtSPzw==",
+  "DataGeracao": "22/09/2026",
+  "ValidoPor": "060",
+  "ValidoAte": "21/11/2026",
+  "QuantidadeTerminais": "001",
+  "TerminaisTef": 1,
+  "PrecoTerminalErp": 19.9,
+  "PrecoTerminalTef": 60,
+  "Chave": "L1RchxJD\u002BP4qak/FeNb6zbK6/H5hko52vCCKCEgZreVDd5YQ68sJFg==",
   "Plano": "Plano Premium",
-  "ValorMensal": 0,
+  "ValorMensal": 0.0,
   "Modulos": [
     {
       "Codigo": "CADASTROS",
