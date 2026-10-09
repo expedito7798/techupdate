@@ -1,27 +1,27 @@
 {
   "cliente": "thecsistemas",
-  "atualizadoEm": "2026-09-30T23:44:07",
-  "intervaloSegundos": 30,
+  "atualizadoEm": "2026-10-08T23:25:53",
+  "intervaloSegundos": 60,
   "campanhas": [
     {
-      "id": "fcc4ec8de0ac4453927d44c0f1c7aaed",
+      "id": "dfbe06241a004cd5a24f2ead8f3507e5",
       "ativo": true,
-      "titulo": "tech",
+      "titulo": "tef",
       "mensagem": "",
-      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/fcc4ec8de0ac4453927d44c0f1c7aaed.png",
+      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/dfbe06241a004cd5a24f2ead8f3507e5.png",
       "link": "",
-      "inicio": "2026-09-30",
-      "fim": "2026-12-30"
+      "inicio": "2026-10-08",
+      "fim": "2027-11-07"
     },
     {
-      "id": "33328d81e69b4db4b65ce319cae00931",
+      "id": "285ba9d2b7f24fb6bb84a7cfddf71a9e",
       "ativo": true,
-      "titulo": "tech",
+      "titulo": "pix",
       "mensagem": "",
-      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/33328d81e69b4db4b65ce319cae00931.png",
+      "imagemUrl": "https://raw.githubusercontent.com/expedito7798/techupdate/main/clientes/thecsistemas/marketing/imagens/285ba9d2b7f24fb6bb84a7cfddf71a9e.png",
       "link": "",
-      "inicio": "2026-09-30",
-      "fim": "2026-12-30"
+      "inicio": "2026-10-08",
+      "fim": "2026-11-07"
     }
   ]
 }
