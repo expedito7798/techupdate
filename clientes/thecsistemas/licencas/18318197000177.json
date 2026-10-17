@@ -5,17 +5,17 @@
   "ValidoPor": "060",
   "ValidoAte": "21/11/2026",
   "QuantidadeTerminais": "001",
-  "TerminaisTef": 1,
+  "TerminaisTef": 0,
   "PrecoTerminalErp": 19.9,
   "PrecoTerminalTef": 60,
   "Chave": "L1RchxJD\u002BP4qak/FeNb6zbK6/H5hko52vCCKCEgZreVDd5YQ68sJFg==",
-  "Plano": "Plano Premium",
-  "ValorMensal": 0.0,
+  "Plano": "Plano B\u00E1sico",
+  "ValorMensal": 100.0,
   "Modulos": [
     {
       "Codigo": "CADASTROS",
       "Nome": "Cadastros",
-      "ValorMensal": 0
+      "ValorMensal": 100
     },
     {
       "Codigo": "VENDAS_CAIXA",
@@ -28,53 +28,13 @@
       "ValorMensal": 0
     },
     {
-      "Codigo": "FINANCEIRO",
-      "Nome": "Financeiro",
-      "ValorMensal": 0
-    },
-    {
       "Codigo": "FISCAL",
       "Nome": "Fiscal e notas fiscais",
       "ValorMensal": 0
     },
     {
-      "Codigo": "RELATORIOS",
-      "Nome": "Relat\u00F3rios avan\u00E7ados",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "ORDEM_SERVICO",
-      "Nome": "Ordem de Servi\u00E7o (Oficina Mec\u00E2nica)",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "SUPERMERCADO",
-      "Nome": "Supermercado (PDV no estilo Supermercado)",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "PIZZARIA",
-      "Nome": "Pizzaria",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "MARKETPLACE",
-      "Nome": "Marketplaces",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "INTEGRACOES",
-      "Nome": "Integra\u00E7\u00F5es, TEF e Pix",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "SNGPC",
-      "Nome": "Farm\u00E1cia e SNGPC",
-      "ValorMensal": 0
-    },
-    {
-      "Codigo": "NFSE_NACIONAL",
-      "Nome": "NFS-e Nacional",
+      "Codigo": "RELATORIOS_BASICOS",
+      "Nome": "Relat\u00F3rios b\u00E1sicos",
       "ValorMensal": 0
     }
   ],
@@ -82,7 +42,7 @@
     {
       "Codigo": "CADASTROS",
       "Nome": "Cadastros",
-      "ValorMensal": 0
+      "ValorMensal": 100
     },
     {
       "Codigo": "VENDAS_CAIXA",
@@ -97,7 +57,7 @@
     {
       "Codigo": "FINANCEIRO",
       "Nome": "Financeiro",
-      "ValorMensal": 0
+      "ValorMensal": 34.9
     },
     {
       "Codigo": "FISCAL",
@@ -105,39 +65,44 @@
       "ValorMensal": 0
     },
     {
+      "Codigo": "RELATORIOS_BASICOS",
+      "Nome": "Relat\u00F3rios b\u00E1sicos",
+      "ValorMensal": 0
+    },
+    {
       "Codigo": "RELATORIOS",
       "Nome": "Relat\u00F3rios avan\u00E7ados",
-      "ValorMensal": 0
+      "ValorMensal": 14.9
     },
     {
       "Codigo": "ORDEM_SERVICO",
       "Nome": "Ordem de Servi\u00E7o (Oficina Mec\u00E2nica)",
-      "ValorMensal": 0
+      "ValorMensal": 59.9
     },
     {
       "Codigo": "SUPERMERCADO",
       "Nome": "Supermercado (PDV no estilo Supermercado)",
-      "ValorMensal": 0
+      "ValorMensal": 49.9
     },
     {
       "Codigo": "PIZZARIA",
       "Nome": "Pizzaria",
-      "ValorMensal": 0
+      "ValorMensal": 49.9
     },
     {
       "Codigo": "MARKETPLACE",
       "Nome": "Marketplaces",
-      "ValorMensal": 0
+      "ValorMensal": 39.9
     },
     {
       "Codigo": "INTEGRACOES",
       "Nome": "Integra\u00E7\u00F5es, TEF e Pix",
-      "ValorMensal": 0
+      "ValorMensal": 120
     },
     {
       "Codigo": "SNGPC",
       "Nome": "Farm\u00E1cia e SNGPC",
-      "ValorMensal": 0
+      "ValorMensal": 69.9
     },
     {
       "Codigo": "NFSE_NACIONAL",
