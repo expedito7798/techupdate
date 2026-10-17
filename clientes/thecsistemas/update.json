@@ -1,10 +1,10 @@
 {
   "cliente": "thecsistemas",
   "sistema": "Tech Sistemas thecsistemas",
-  "versao": "2026.10.17.1",
+  "versao": "2026.10.17.2",
   "data": "2026-10-17",
-  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.10.17.1/Tech_thecsistemas_2026_10_17_1.zip",
-  "sha256": "f96cfdb67ea6c315a1eaabca6fef7ce37b2aed0d078811597d23ae62377ce478",
+  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.10.17.2/Tech_thecsistemas_2026_10_17_2.zip",
+  "sha256": "60f6c26ef66153d38c969a0b7f0c36894ad2c25c7bda638c12a88089f29f453a",
   "obrigatoria": true,
-  "mensagem": "Novo Plano B\u00E1sico e tela Meu plano e recursos. Contratos e m\u00F3dulos adicionais existentes preservados."
+  "mensagem": "Guia de funcionalidades no menu Ajuda e corre\u00E7\u00F5es de acesso aos m\u00F3dulos do Plano B\u00E1sico. Contratos e opcionais preservados."
 }
