@@ -1,10 +1,10 @@
 {
   "cliente": "thecsistemas",
   "sistema": "Tech Sistemas thecsistemas",
-  "versao": "2026.10.17.2",
-  "data": "2026-10-17",
-  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.10.17.2/Tech_thecsistemas_2026_10_17_2.zip",
-  "sha256": "60f6c26ef66153d38c969a0b7f0c36894ad2c25c7bda638c12a88089f29f453a",
+  "versao": "2026.10.17.3",
+  "data": "2026-10-18",
+  "url": "https://github.com/expedito7798/techupdate/releases/download/thecsistemas-v2026.10.17.3/Tech_thecsistemas_2026_10_17_3.zip",
+  "sha256": "300ac4f9ca9a21998f390bfaefed5a79a9024393302132bd727e0eaac17f38c8",
   "obrigatoria": true,
-  "mensagem": "Guia de funcionalidades no menu Ajuda e corre\u00E7\u00F5es de acesso aos m\u00F3dulos do Plano B\u00E1sico. Contratos e opcionais preservados."
+  "mensagem": ""
 }
