@@ -5,27 +5,27 @@
   "ValidoPor": "060",
   "ValidoAte": "21/11/2026",
   "QuantidadeTerminais": "001",
-  "TerminaisTef": 0,
+  "TerminaisTef": 1,
   "PrecoTerminalErp": 19.9,
   "PrecoTerminalTef": 60,
   "Chave": "L1RchxJD\u002BP4qak/FeNb6zbK6/H5hko52vCCKCEgZreVDd5YQ68sJFg==",
-  "Plano": "Plano B\u00E1sico",
-  "ValorMensal": 120.0,
+  "Plano": "Plano Premium",
+  "ValorMensal": 574.0,
   "Modulos": [
     {
       "Codigo": "CADASTROS",
       "Nome": "Cadastros",
-      "ValorMensal": 100
+      "ValorMensal": 19.9
     },
     {
       "Codigo": "VENDAS_CAIXA",
       "Nome": "Vendas, PDV e caixa",
-      "ValorMensal": 0
+      "ValorMensal": 39.9
     },
     {
       "Codigo": "ESTOQUE",
       "Nome": "Estoque",
-      "ValorMensal": 0
+      "ValorMensal": 29.9
     },
     {
       "Codigo": "FINANCEIRO",
@@ -35,11 +35,51 @@
     {
       "Codigo": "FISCAL",
       "Nome": "Fiscal e notas fiscais",
-      "ValorMensal": 0
+      "ValorMensal": 59.9
     },
     {
       "Codigo": "RELATORIOS_BASICOS",
       "Nome": "Relat\u00F3rios b\u00E1sicos",
+      "ValorMensal": 0
+    },
+    {
+      "Codigo": "RELATORIOS",
+      "Nome": "Relat\u00F3rios avan\u00E7ados",
+      "ValorMensal": 14.9
+    },
+    {
+      "Codigo": "ORDEM_SERVICO",
+      "Nome": "Ordem de Servi\u00E7o (Oficina Mec\u00E2nica)",
+      "ValorMensal": 59.9
+    },
+    {
+      "Codigo": "SUPERMERCADO",
+      "Nome": "Supermercado (PDV no estilo Supermercado)",
+      "ValorMensal": 49.9
+    },
+    {
+      "Codigo": "PIZZARIA",
+      "Nome": "Pizzaria",
+      "ValorMensal": 49.9
+    },
+    {
+      "Codigo": "MARKETPLACE",
+      "Nome": "Marketplaces",
+      "ValorMensal": 39.9
+    },
+    {
+      "Codigo": "INTEGRACOES",
+      "Nome": "Integra\u00E7\u00F5es, TEF e Pix",
+      "ValorMensal": 120
+    },
+    {
+      "Codigo": "SNGPC",
+      "Nome": "Farm\u00E1cia e SNGPC",
+      "ValorMensal": 69.9
+    },
+    {
+      "Codigo": "NFSE_NACIONAL",
+      "Nome": "NFS-e Nacional",
       "ValorMensal": 0
     }
   ],
@@ -47,17 +87,17 @@
     {
       "Codigo": "CADASTROS",
       "Nome": "Cadastros",
-      "ValorMensal": 100
+      "ValorMensal": 19.9
     },
     {
       "Codigo": "VENDAS_CAIXA",
       "Nome": "Vendas, PDV e caixa",
-      "ValorMensal": 0
+      "ValorMensal": 39.9
     },
     {
       "Codigo": "ESTOQUE",
       "Nome": "Estoque",
-      "ValorMensal": 0
+      "ValorMensal": 29.9
     },
     {
       "Codigo": "FINANCEIRO",
@@ -67,7 +107,7 @@
     {
       "Codigo": "FISCAL",
       "Nome": "Fiscal e notas fiscais",
-      "ValorMensal": 0
+      "ValorMensal": 59.9
     },
     {
       "Codigo": "RELATORIOS_BASICOS",
