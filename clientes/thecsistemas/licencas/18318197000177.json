@@ -10,7 +10,7 @@
   "PrecoTerminalTef": 60,
   "Chave": "L1RchxJD\u002BP4qak/FeNb6zbK6/H5hko52vCCKCEgZreVDd5YQ68sJFg==",
   "Plano": "Plano B\u00E1sico",
-  "ValorMensal": 100.0,
+  "ValorMensal": 120.0,
   "Modulos": [
     {
       "Codigo": "CADASTROS",
@@ -26,6 +26,11 @@
       "Codigo": "ESTOQUE",
       "Nome": "Estoque",
       "ValorMensal": 0
+    },
+    {
+      "Codigo": "FINANCEIRO",
+      "Nome": "Financeiro",
+      "ValorMensal": 20
     },
     {
       "Codigo": "FISCAL",
