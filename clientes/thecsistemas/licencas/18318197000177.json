@@ -10,7 +10,7 @@
   "PrecoTerminalTef": 60,
   "Chave": "L1RchxJD\u002BP4qak/FeNb6zbK6/H5hko52WPBcNFGdidlHos5DenEiTQ==",
   "Plano": "Plano Premium",
-  "ValorMensal": 574.0,
+  "ValorMensal": 623.9,
   "Modulos": [
     {
       "Codigo": "CADASTROS",
@@ -66,6 +66,11 @@
       "Codigo": "MARKETPLACE",
       "Nome": "Marketplaces",
       "ValorMensal": 39.9
+    },
+    {
+      "Codigo": "VITRINE_DIGITAL",
+      "Nome": "Vitrine Digital (cat\u00E1logo e card\u00E1pio)",
+      "ValorMensal": 49.9
     },
     {
       "Codigo": "INTEGRACOES",
@@ -138,6 +143,11 @@
       "Codigo": "MARKETPLACE",
       "Nome": "Marketplaces",
       "ValorMensal": 39.9
+    },
+    {
+      "Codigo": "VITRINE_DIGITAL",
+      "Nome": "Vitrine Digital (cat\u00E1logo e card\u00E1pio)",
+      "ValorMensal": 49.9
     },
     {
       "Codigo": "INTEGRACOES",
